@@ -1,0 +1,2 @@
+criacional
+	-	abstract factory: todas as classe implementam a mesma interface
