@@ -1,2 +1,3 @@
 criacional
-	-	abstract factory: todas as classe implementam a mesma interface
+	1 - abstract factory: todas as classe implementam a mesma interface
+	2 - builder: é uma interface que "builda" partes de um objeto complexo.Se sabe o que buildar, pode ser que a interface seja uma class abstrata
