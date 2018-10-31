@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff5ff04-eac7-4fc2-a41c-34beda234135" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/1 - abstract factory/AbstractFactoryTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/1 - abstract factory/CsvParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/1 - abstract factory/JsonParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/1 - abstract factory/Parser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/1 - abstract factory/ParserFactory.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/1 - abstract factory/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumo design patterns.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resumo design patterns.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creational/2-builder/Test.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,31 +22,31 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="1310" />
+          <entry key="php" value="1311" />
           <entry key="txt" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="1310" />
+          <entry key="PHP" value="1311" />
           <entry key="PLAIN_TEXT" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="php" value="26" />
+          <entry key="php" value="27" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PHP" value="26" />
+          <entry key="PHP" value="27" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.php.new.class">
         <counts>
-          <entry key="PHP Class.type" value="6" />
+          <entry key="PHP Class.type" value="7" />
         </counts>
       </usages-collector>
     </session>
@@ -81,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resumo design patterns.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -93,17 +86,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/creational/2-builder/BuilderInterface.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            <state relative-caret-position="285">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/creational/2-builder/Test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -126,10 +119,10 @@
         <option value="$PROJECT_DIR$/creational/2-builder/Parts/Car.php" />
         <option value="$PROJECT_DIR$/creational/2-builder/Parts/Vehicle.php" />
         <option value="$PROJECT_DIR$/creational/2-builder/Parts/Truck.php" />
-        <option value="$PROJECT_DIR$/creational/2-builder/Test.php" />
         <option value="$PROJECT_DIR$/creational/2-builder/CarBuilder.php" />
         <option value="$PROJECT_DIR$/creational/2-builder/BuilderInterface.php" />
         <option value="$PROJECT_DIR$/resumo design patterns.txt" />
+        <option value="$PROJECT_DIR$/creational/2-builder/Test.php" />
       </list>
     </option>
   </component>
@@ -221,12 +214,12 @@
       <updated>1540902488524</updated>
       <workItem from="1540902491874" duration="1784000" />
       <workItem from="1540991699065" duration="1787000" />
-      <workItem from="1540993509613" duration="322000" />
+      <workItem from="1540993509613" duration="435000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3893000" />
+    <option name="totallyTimeSpent" value="4006000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1414" y="-11" width="1233" height="812" extended-state="6" />
@@ -301,24 +294,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/creational/2-builder/Test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/creational/2-builder/Director.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/creational/2-builder/BuilderInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -343,6 +322,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="146" selection-start-line="2" selection-start-column="146" selection-end-line="2" selection-end-column="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creational/2-builder/BuilderInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creational/2-builder/Test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
