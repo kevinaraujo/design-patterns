@@ -2,4 +2,6 @@ criacional
 	1 - abstract factory: todas as classe implementam a mesma interface
 	2 - builder: é uma interface que "builda" partes de um objeto complexo.Se sabe o que buildar, pode ser que a interface seja uma class abstrata
 	3 - factory method: depende de abstrações, não classes concretas. Você pode "subclassear" para implementar diferentes modos de criar o objeto. Para casos simples, essa classe abstrata poderia ser apenas uma interface
-	4 -
+	4 - multition: ter uma lista das instancias nomeadas que estão sendo usadas, como a singleton mas com n instancias
+	5 - pool: usa um conjunto de objetos inicializados que ficam "prontos" para uso ao inves de alocar e destruir sob demanda. é Bem usado quando a taxa de inicialização de objetos é alta como conexões de db, conexões de socket, theads e obbjetos gráficos..
+	6 -
