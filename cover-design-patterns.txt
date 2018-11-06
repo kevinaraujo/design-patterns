@@ -7,3 +7,4 @@ criacional
 	6 - prototpye: evitar o custo de criar objetos de modo padrão e então, mas ao invés disso, criar um prototype e cloná-lo
 	7 - simple factory: difere do static factory porque não é estatico. Pode-se ter multiplos factories parametrizados de forma diferente. Sempre melhor que o static factory
 	8 - singleton: manter uma unica instancia do objeto. Ele lidará com todas as chamadas.
+	9 - static factory: diferente do abstract factory ele usa apenas um método estático para criar qualquer tipo de objeto.
